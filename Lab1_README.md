@@ -1,4 +1,4 @@
-# codePath_cybersecurity
+# Websecurity 
 
 This is my first simple web application test using Burp community tool
 I just followed the instruction which I will briefly explain it in few steps:
